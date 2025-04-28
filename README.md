@@ -17,3 +17,14 @@
 | EXIF Metadata    | ❌ Missing | ✔️ Available  |
 | Focal Lengths    | Unknown    | 4+ settings   |
 | Capture Control  | Uncontrolled | Controlled   |
+
+## Download
+Dataset available on [Baidu Netdisk](https://pan.baidu.com/)  
+(Please contact authors for extraction code)
+
+## Citation
+If you use this dataset in your research, please cite our paper:  
+**"Title of Your Paper"**  
+Authors et al.  
+Conference/Journal, Year  
+[DOI/arXiv link if available]
