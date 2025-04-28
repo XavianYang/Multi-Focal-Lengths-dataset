@@ -17,6 +17,7 @@
 | EXIF Metadata    | ❌ Missing | ✔️ Available  |
 | Focal Lengths    | Unknown    | 4+ settings   |
 | Capture Control  | Uncontrolled | Controlled   |
+| Scenes number    |     2      |       6       |
 
 ## Download
 Dataset available on [Baidu Netdisk](https://pan.baidu.com/)  
