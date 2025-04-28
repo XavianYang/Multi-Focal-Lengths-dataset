@@ -20,7 +20,7 @@
 | Scenes number    |     2      |       6       |
 
 ## Download
-Dataset available on [Baidu Netdisk](https://pan.baidu.com/)  
+Dataset available on [here](https://pan.baidu.com/)  
 (Please contact authors for extraction code)
 
 ## Citation
