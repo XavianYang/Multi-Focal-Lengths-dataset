@@ -25,7 +25,7 @@ Dataset can be download in [here](https://pan.baidu.com/)
 
 ## Citation
 If you use this dataset in your research, please cite our paper:  
-**"Title of Your Paper"**  
+**"Efficent and Focal-free Pose-only Structure-from-motion"**  
 Authors et al.  
 Conference/Journal, Year  
 [DOI/arXiv link if available]
