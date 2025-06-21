@@ -20,12 +20,13 @@
 | Scenes number    |     2      |       6       |
 
 ## Download
-Dataset can be download in [here](https://pan.baidu.com/)  
+Dataset can be download in [here](https://pan.baidu.com/s/1TbBgUXYq29GMP8yS6DB6Jg?pwd=9gsf 提取码: 9gsf 
+--来自百度网盘超级会员v5的分享)  
 (Please contact authors for extraction code)
 
 ## Citation
 If you use this dataset in your research, please cite our paper:  
-**"Efficent and Focal-free Pose-only Structure-from-motion"**  
-Authors et al.  
-Conference/Journal, Year  
+**"Fast Intrinsic-Extrinsic Calibration for Pose-only
+ Structure-from-Motion"**  
+Journal, Year  
 [DOI/arXiv link if available]
