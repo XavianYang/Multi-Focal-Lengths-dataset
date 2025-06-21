@@ -20,8 +20,7 @@
 | Scenes number    |     2      |       6       |
 
 ## Download
-Dataset can be download in [here](https://pan.baidu.com/s/1TbBgUXYq29GMP8yS6DB6Jg?pwd=9gsf 提取码: 9gsf 
---来自百度网盘超级会员v5的分享)  
+Dataset can be download in [here](https://pan.baidu.com/s/1TbBgUXYq29GMP8yS6DB6Jg?pwd=9gsf)  
 (Please contact authors for extraction code)
 
 ## Citation
